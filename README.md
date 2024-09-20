@@ -1,4 +1,4 @@
-**# Roxiler System Project** 
+# Roxiler System Project
 
 ### This web application enables users to submit ratings for stores registered on the platform. The application supports three types of user personas: System Admin, Normal User, and Store Owner. Each type of user has unique functionalities based on their role. 
 
